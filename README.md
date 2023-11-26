@@ -114,6 +114,36 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 ## Styling
 All files have been written in the Betty Style.
 
+## Importance of the Monty ByteCode Interpreter
+The Monty ByteCode interpreter project holds significance as it bridges the gap between scripting and programming languages, aiming to provide a versatile tool for executing Monty ByteCode files. By creating this interpreter, a fundamental understanding of language parsing, bytecode execution, and data structure manipulation is achieved.
+
+## Importance in Language Interpretation
+Interpreters serve as critical components in understanding and executing code written in specific languages. This Monty interpreter facilitates the execution of Monty ByteCode files, allowing developers and enthusiasts to experiment and explore this unique language's functionalities in a controlled environment.
+
+## Skills Acquired
+Building the Monty ByteCode interpreter was an enriching experience that provided opportunities to develop various technical skills, including:
+
+* Language Design Understanding:
+ Grasping the syntax and semantics of Monty ByteCode and implementing corresponding functionality.
+
+* Parser Development: 
+Creating a parser to read and interpret the bytecode instructions, handling edge cases and unknown instructions gracefully.
+
+* Data Structure Handling: 
+Implementing stack and queue data structures, pivotal in executing stack and queue-related operations defined by Monty opcodes.
+
+* Error Handling and Reporting: 
+Devising error handling mechanisms to report issues such as unknown instructions, file opening failures, or invalid bytecode structures.
+
+* Programming Logic: 
+Designing algorithms to execute Monty instructions efficiently and accurately, considering the specifics of each opcode's functionality.
+
+* Debugging and Troubleshooting: 
+Identifying and resolving issues within the interpreter, refining the code for enhanced reliability.
+
+## Learning Outcomes
+The process of creating this Monty ByteCode interpreter not only allowed for a deeper understanding of language interpretation but also honed problem-solving abilities, coding practices, and familiarity with low-level programming concepts
+
 ## Author
 
 **Trojan-254** 
